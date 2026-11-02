@@ -1,0 +1,6 @@
+Name = Reconnect on Server Kick
+Type = Plugin
+Author = lbenicio
+Version = @PROJECT_VERSION@
+Platforms = mac
+Description = "Reconnects the current TeamSpeak tab to the same server after your own client is kicked from the server."
